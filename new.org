@@ -1,0 +1,5 @@
+This is my org file 
+** and i want it to push to github
+
+* like a mardown 
+and the other stuff
