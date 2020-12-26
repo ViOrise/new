@@ -9,5 +9,7 @@ something new
 
 | somethin | some  | and      |
 |----------+-------+----------|
-| and the   | other | stuff    |
+| and the  | other | stuff    |
 | for man  | and   | his life |
+
+[[http://google.com] This is google]
