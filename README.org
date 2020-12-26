@@ -6,3 +6,7 @@ something new
 ** and the other 
 
 * and the other stuff 
+
+| somethin | some  | and      |
+| and the  | other | stuff    |
+| for man  | and   | his life |
