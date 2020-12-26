@@ -20,4 +20,8 @@ something new
 
 [[http://opera.com][this is opera]]
 
-
+| somethig  | and    | sam  |
+|-----------+--------+------|
+| for the   | opi    | nthn |
+| nhnth and | other  | nthe |
+| thsnth    | thnsth | tnhn |
