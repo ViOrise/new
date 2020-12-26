@@ -15,3 +15,5 @@ something new
 
 
 [[http://google.com][This is google]]
+[[http://yandex.com][yandex.com]]
+
