@@ -5,8 +5,9 @@ something new
 
 ** and the other 
 
-* and the other stuff 
+* and the other stuff s
 
+ something - something - somethnig - some
 | somethin | some  | and      |
 |----------+-------+----------|
 | and the  | other | stuff    |
@@ -48,3 +49,6 @@ and the ether stuff
 
 
 and the heys
+and the other stuf 
+
+financial things 
